@@ -1,5 +1,5 @@
 # Simple-gmail-api-access
-How to access and get the recent messages from gmail account by credentials
+How to access and get the recent messages from gmail account with credentials
 
 1. Create an app in GCP with your gmail
     https://console.cloud.google.com/
